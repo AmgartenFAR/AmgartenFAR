@@ -2,6 +2,7 @@
 
 <h3> :man_technologist: |&nbsp;Personal information...</h3>
 
+- :white_flag: &nbsp; Brazilian
 - :thinking: &nbsp; Exploring new technologies every day...
 - :seedling: &nbsp; Learning more about JavaScript, .LUA, Python and FiveM Development.
 
