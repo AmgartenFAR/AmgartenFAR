@@ -7,7 +7,7 @@
 
 <!-- - :mortar_board: &nbsp; I'm still coursing "software engineer" at <a href="https://cotuca.unicamp.br/cotuca/%22%3ECOTUCA</a>. -->
 
-<h3> :wrench: |&nbsp;Some technologies...</h3>
+<h3> :hammer_and_wrench: |&nbsp;Some technologies...</h3>
 
 - :globe_with_meridians: &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML)
